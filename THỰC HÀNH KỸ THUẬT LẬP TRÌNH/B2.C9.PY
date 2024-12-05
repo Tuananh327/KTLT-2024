@@ -1,0 +1,5 @@
+print("NGÔ ANH TUẤN")
+print("MSV:235752021610026")
+a=input("Nhập một xâu:")
+b=len(a)
+print("Số ký tự của xâu là:",b)
